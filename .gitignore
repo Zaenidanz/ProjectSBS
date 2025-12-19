@@ -1,0 +1,20 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+
+# ===== Virtual Environment =====
+.venv/
+venv/
+env/
+
+# ===== OS / Editor =====
+.DS_Store
+.vscode/
+.idea/
+
+# ===== Media / Temp =====
+*.wav
+*.png
+*.jpg
+*.mp4
+
